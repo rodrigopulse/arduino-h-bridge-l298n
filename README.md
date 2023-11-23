@@ -2,6 +2,8 @@
 
 This project demonstrates a practical application of motor control using an Arduino and an H-Bridge module. The goal is to showcase how to control the speed and direction of a motor using this hardware.
 
+![h-bridge arduino schematic](docs/images/h-bridge-arduino-schematic.jpg)
+
 ## Required Materials
 
 - Arduino Uno (or similar)
